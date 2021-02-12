@@ -19,8 +19,9 @@ int main(void)
 
     printf("\nThe given char  : %c",ip_char);
     printf("\nThe given int   : %d",ip_int);
+    printf("\nThe given float : %f",ip_float);
     printf("\nThe given float : %ef",ip_float);
-
+    
     return 0;
 
 }
